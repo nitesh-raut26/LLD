@@ -1,5 +1,5 @@
 // =====================================================
-// PARKING LOT SYSTEM - FIXED VERSION
+// PARKING LOT SYSTEM -
 // =====================================================
 
 import java.util.*;

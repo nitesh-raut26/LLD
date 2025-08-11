@@ -1,5 +1,5 @@
 // =====================================================
-// LRU CACHE SYSTEM - FIXED VERSION
+// LRU CACHE SYSTEM - 
 // =====================================================
 
 import java.util.HashMap;
